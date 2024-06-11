@@ -1,0 +1,5 @@
+colorama==0.4.6
+mysql_connector_repackaged==0.3.1
+paramiko==3.4.0
+Requests==2.32.3
+shodan==1.31.0
