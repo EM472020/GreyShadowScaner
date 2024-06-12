@@ -66,5 +66,10 @@ def vuln_scan_exp():
     else:
         print(colorama.Fore.RED+"该模块尚未规范化"+colorama.Style.RESET_ALL)
 
-
+def sniper_mode():
+    print(colorama.Fore.YELLOW+'''
+          
+          
+          
+          '''+colorama.Style.RESET_ALL)
 

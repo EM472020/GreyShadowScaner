@@ -2,7 +2,8 @@ import requests
 import base64
 from colorama import Fore,Style,init
 
-def fofa_search(query, api_key=''):
+# 在这里设置你的api
+def fofa_search(query, api_key='qLGi7bseJTW1Fl41'):
     text_keeper=[]
     print(Fore.BLUE+r'''
      _____    ___    _____      _    

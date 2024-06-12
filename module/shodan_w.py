@@ -5,7 +5,7 @@ import colorama
 colorama.init(autoreset=True)
 
 # 设置你的 Shodan API 密钥
-SHODAN_API_KEY = ''
+SHODAN_API_KEY = 'F1KxqDcLQ9Xg6ljD04dDhzPIy1hENZag'
 
 def shodan_search(query, api=SHODAN_API_KEY):
     usr_shodan = shodan.Shodan(api)
