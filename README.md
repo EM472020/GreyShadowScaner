@@ -41,3 +41,4 @@
 
 ### 网络炸弹（针对多台网络主机进行漏洞扫描或者端口爆破）
 # GreyShadow
+# GreyShadowScaner
